@@ -1,0 +1,8 @@
+{
+  "name": "Suriya Portfolio",
+  "short_name": "Portfolio",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }],
+  "theme_color": "#0b1220",
+  "background_color": "#0b1220",
+  "display": "standalone"
+}
